@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: R packages
-      text: Here are the R packages I have developed
+      text: Here are the R packages I have developed.
       filters:
         folders:
           - project
     design:
-      view: citation
+      view: article-grid
       fill_image: false
       columns: 2
 ---

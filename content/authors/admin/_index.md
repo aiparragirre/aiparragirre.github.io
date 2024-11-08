@@ -86,13 +86,13 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
-languages:
-  - name: Basque
-    percent: 100
-  - name: Spanish
-    percent: 100
-  - name: English
-    percent: 75
+# languages:
+#  - name: Basque
+#    percent: 100
+#  - name: Spanish
+#    percent: 100
+#  - name: English
+#    percent: 75
 
 
 ---

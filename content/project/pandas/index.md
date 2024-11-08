@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: svyVarSel
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: https://github.com/aiparragirre/svyVarSel
+# tags:
+#  - Hugo
+#  - Wowchemy
+#  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+An R Package for Variable Selection with Complex Survey Data
 
 <!--more-->

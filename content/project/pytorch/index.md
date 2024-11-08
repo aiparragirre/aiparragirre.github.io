@@ -1,13 +1,10 @@
 ---
-title: PyTorch
+title: svyROC
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+external_link: https://github.com/aiparragirre/svyROC
+
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Estimate the receiver operating characteristic (ROC) curve, area under the curve (AUC) and optimal cut-off points for individual classification with complex survey data.
 
 <!--more-->

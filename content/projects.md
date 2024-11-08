@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Software'
 date: 2024-05-19
 type: landing
 
@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: R packages
+      text: Here are the R packages I have developed
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
 ---

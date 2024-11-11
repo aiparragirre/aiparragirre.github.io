@@ -1,7 +1,7 @@
 ---
 title: Publications
-# cms_exclude: true
-type: widget_page
+cms_exclude: true
+# type: widget_page
 
 # View.
 view: citation

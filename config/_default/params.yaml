@@ -29,7 +29,7 @@ marketing:
 # Site header
 header:
   navbar:
-    align: "left"
+    align: "right"
     enable: true
     blox: "navbar"
     fixed_to_top: true

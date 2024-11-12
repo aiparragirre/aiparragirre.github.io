@@ -51,11 +51,12 @@ sections:
          folders:
            - software
          exclude_featured: false
-    design:
-       view: list
-    button:
+       button:
         text: See more about software
         url: /software
+    design:
+       view: list
+    
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

@@ -53,7 +53,7 @@ sections:
          exclude_featured: false
        buttons:
         text: See more about software
-        url: /#software
+        url: /software
     design:
        view: list
 

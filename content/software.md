@@ -20,12 +20,12 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-  - block: collection
-    content:
-      title: R packages on CRAN
-      text: Here are the CRAN versions of the R packages.
-    design:
-      view: citation
-      fill_image: false
-      columns: 1
+  # - block: collection
+  #  content:
+  #    title: R packages on CRAN
+  #    text: Here are the CRAN versions of the R packages.
+  #  design:
+  #    view: citation
+  #    fill_image: false
+  #    columns: 1
 ---

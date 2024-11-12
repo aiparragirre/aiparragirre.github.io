@@ -43,18 +43,18 @@ sections:
     design:
       view: citation
     
-  - block: collection
-    content:
-       title: Software
-       text: "R packages"
-       filters:
-         folders:
-           - software
-         exclude_featured: false
-    design:
-       view: list
-       background:
-          color: teal
+  #- block: collection
+  #  content:
+  #     title: Software
+  #     text: "R packages"
+  #     filters:
+  #       folders:
+  #         - software
+  #       exclude_featured: false
+  #  design:
+  #     view: list
+  #     background:
+  #        color: teal
 
   
   - block: cta-card

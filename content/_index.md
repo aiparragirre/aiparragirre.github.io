@@ -58,14 +58,14 @@ sections:
        view: list
 
     - block: buttons
-    content:
-      buttons:
-        - title: svyROC
-          icon: brands/arxiv
-          url: https://github.com/aiparragirre/svyROC
-        - title: svyVarSel
-          icon: brands/youtube
-          url: https://github.com/aiparragirre/svyVarSel
+      content:
+        buttons:
+          - title: svyROC
+            icon: brands/arxiv
+            url: https://github.com/aiparragirre/svyROC
+          - title: svyVarSel
+            icon: brands/youtube
+            url: https://github.com/aiparragirre/svyVarSel
        
   
   - block: cta-card

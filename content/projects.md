@@ -12,10 +12,10 @@ sections:
   - block: collection
     content:
       title: R packages
-      text: Here are the R packages I have developed.
+      text: Here are the latest versions of the R packages I have developed.
       filters:
         folders:
-          - project
+          - software
     design:
       view: article-grid
       fill_image: false

@@ -53,6 +53,9 @@ sections:
          exclude_featured: false
     design:
        view: list
+    button:
+        text: See more about software
+        url: /software
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site

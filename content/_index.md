@@ -51,9 +51,6 @@ sections:
          folders:
            - software
          exclude_featured: false
-       button:
-        text: See more about software
-        url: /software
     design:
        view: list
 

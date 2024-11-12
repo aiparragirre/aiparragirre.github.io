@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+type: landing
 # type: widget_page
 
 # View.

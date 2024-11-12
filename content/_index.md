@@ -53,6 +53,8 @@ sections:
          exclude_featured: false
     design:
        view: list
+       background:
+          color: teal
 
   
   - block: cta-card

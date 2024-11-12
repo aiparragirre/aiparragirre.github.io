@@ -51,7 +51,7 @@ sections:
          folders:
            - software
          exclude_featured: false
-       buttons:
+       button:
         text: See more about software
         url: /software
     design:

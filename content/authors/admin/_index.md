@@ -37,6 +37,8 @@ profiles:
 
 interests:
   - Prediction Models
+  - Variable selection
+  - ROC curve
   - Complex Survey Data
 
 education:
@@ -58,12 +60,18 @@ education:
     date_start: 2012-09-01
     date_end: 2016-07-31
 work:
+  - position: Postdoctoral Fellow
+    company_name: University of the Basque Country (UPV/EHU)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-03-01
+    date_end: ''
   - position: Temporary full-time lecturer
     company_name: University of the Basque Country (UPV/EHU)
     company_url: ''
     company_logo: ''
     date_start: 2021-02-02
-    date_end: ''
+    date_end: 2025-02-28
   - position: Pre-doctoral researcher
     company_name: University of the Basque Country (UPV/EHU)
     company_url: ''
@@ -99,4 +107,4 @@ work:
 
 ## About Me
 
-I am a temporary full-time lecturer at the Department of Mathematics of the University of the Basque Country (UPV/EHU), and a member of the research group [MATHMODE](https://www.mathmode.science/). My research focuses on the development and validation of prediction models, in particular, in the context of complex survey data.
+I am a Postdoctoral Fellow (awarded by the University of the Basque Country UPV/EHU) at the Department of Mathematics of UPV/EHU, and a member of the research group [MATHMODE](https://www.mathmode.science/). My research focuses on the development and validation of prediction models, in particular, in the context of complex survey data.

@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/paper7.html",
+      "/publications/paper6.html",
+      "/publications/paper5.html",
+      "/publications/paper4.html",
+      "/publications/paper3.html",
+      "/publications/paper2.html",
+      "/publications/paper1.html"
+    ]
+  },
+  {
+    "listing": "/software/software.html",
+    "items": [
+      "/software/package2.html",
+      "/software/package1.html"
+    ]
+  },
+  {
+    "listing": "/software2/software.html",
+    "items": [
+      "/software2/items/package2.html",
+      "/software2/items/package1.html"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amaia Iparragirre",
+    "section": "",
+    "text": "I am an Assistant Professor in the Department of Quantitative Methods at the University of the Basque Country (UPV/EHU) and a member of the MATHMODE research group. My research focuses on the development and validation of prediction models, with particular emphasis on complex survey data."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Amaia Iparragirre",
+    "section": "Education",
+    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Amaia Iparragirre",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "blog/second-post/index.html",
+    "href": "blog/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "blog/third-post/index.html",
+    "href": "blog/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/first-post/index.html",
+    "href": "blog/first-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "Sed risus ultricies tristique nulla aliquet. Neque volutpat ac tincidunt vitae semper quis lectus nulla.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim sed faucibus turpis in eu mi bibendum neque. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Velit sed ullamcorper morbi tincidunt ornare massa. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lobortis feugiat vivamus at augue eget arcu. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Mauris a diam maecenas sed enim ut sem viverra aliquet. Enim ut tellus elementum sagittis vitae et leo duis. Molestie at elementum eu facilisis sed odio morbi quis commodo. Sapien pellentesque habitant morbi tristique senectus. Quam vulputate dignissim suspendisse in est. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget.\nVelit aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Viverra mauris in aliquam sem fringilla ut morbi tincidunt augue. Tortor at auctor urna nunc id. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Hac habitasse platea dictumst quisque. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Ultrices tincidunt arcu non sodales neque sodales ut etiam. Iaculis at erat pellentesque adipiscing. Cras tincidunt lobortis feugiat vivamus. Nisi est sit amet facilisis magna etiam. Pharetra pharetra massa massa ultricies mi quis hendrerit. Vitae sapien pellentesque habitant morbi tristique senectus. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing vitae."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "blablabla"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nJournal\n\n\nDate\n\n\nCategories\n\n\n\n\n\n\nEvaluating AUC estimators across complex sampling designs: insights from COVID-19 patient data\n\n\nAmaia Iparragirre, José María Quintana-López, Irantzu Barrio\n\n\nBMC Medical Research Methodology\n\n\n2025\n\n\nPaper\n\n\n\n\nOptimism Correction of the AUC with Complex Survey Data\n\n\nAmaia Iparragirre, Irantzu Barrio\n\n\nDevelopments in Statistical Modelling (IWSM2024)\n\n\n2024\n\n\nConference Paper\n\n\n\n\nEstimation of logistic regression parameters for complex survey data: simulation study based on real survey data\n\n\nAmaia Iparragirre, Irantzu Barrio, Jorge Aramendi, Inmaculada Arostegui\n\n\nSORT-Statistics and Operations Research Transactions\n\n\n2024\n\n\nPaper\n\n\n\n\nEstimation of the ROC curve and the area under it with complex survey data\n\n\nAmaia Iparragirre, Irantzu Barrio, Inmaculada Arostegui\n\n\nStat\n\n\n2023\n\n\nPaper\n\n\n\n\nVariable selection with LASSO regression for complex survey data\n\n\nAmaia Iparragirre, Thomas Lumley, Irantzu Barrio, Inmaculada Arostegui\n\n\nStat\n\n\n2023\n\n\nPaper\n\n\n\n\nEstimation of cut-off points under complex-sampling design data\n\n\nAmaia Iparragirre, Irantzu Barrio, Jorge Aramendi, Inmaculada Arostegui\n\n\nSORT-Statistics and Operations Research Transactions\n\n\n2022\n\n\nPaper\n\n\n\n\nOn the optimism correction of the area under the receiver operating characteristic curve in logistic prediction models\n\n\nAmaia Iparragirre, Irantzu Barrio, María Xosé Rodríguez-Álvarez\n\n\nSORT-Statistics and Operations Research Transactions\n\n\n2019\n\n\nPaper\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/second-post/index.html",
+    "href": "publications/second-post/index.html",
+    "title": "Second Post",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Amet cursus sit amet dictum sit amet. Eget duis at tellus at urna condimentum. Convallis aenean et tortor at risus viverra. Tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. At imperdiet dui accumsan sit amet. Ut ornare lectus sit amet est placerat. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Mattis enim ut tellus elementum sagittis. Dui id ornare arcu odio ut. Natoque penatibus et magnis dis. Libero justo laoreet sit amet cursus sit. Sed faucibus turpis in eu. Tempus iaculis urna id volutpat lacus laoreet.\nPhasellus vestibulum lorem sed risus. Eget felis eget nunc lobortis mattis. Sit amet aliquam id diam maecenas ultricies. Egestas maecenas pharetra convallis posuere morbi. Etiam erat velit scelerisque in dictum non consectetur a erat. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Viverra accumsan in nisl nisi scelerisque. Et netus et malesuada fames ac. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Eget lorem dolor sed viverra ipsum nunc aliquet. Ultrices dui sapien eget mi proin sed libero enim sed. Ultricies mi eget mauris pharetra et ultrices neque. Ipsum suspendisse ultrices gravida dictum. A arcu cursus vitae congue mauris rhoncus aenean vel. Gravida arcu ac tortor dignissim convallis. Nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "objectID": "publications/third-post/index.html",
+    "href": "publications/third-post/index.html",
+    "title": "Third Blog Post",
+    "section": "",
+    "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Professional Experience & Education",
+    "section": "",
+    "text": "University of the Basque Country (UPV/EHU)\n\n\nDepartment of Quantitative Methods\n\n\nSeptember 2025 – Today\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nMarch 2025 – August 2025\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nFebruary 2021 – March 2025\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nJune 2019 – February 2021\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nNovember 2017 – December 2018\n\n\n\n\n\n\n\n\nBCAM – Basque Center for Applied Mathematics\n\n\nMay 2017 – Septemper 2017"
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Professional Experience & Education",
+    "section": "",
+    "text": "University of the Basque Country (UPV/EHU)\n\n\nDepartment of Quantitative Methods\n\n\nSeptember 2025 – Today\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nMarch 2025 – August 2025\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nFebruary 2021 – March 2025\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nJune 2019 – February 2021\n\n\n\n\n\n\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nDepartment of Mathematics\n\n\nNovember 2017 – December 2018\n\n\n\n\n\n\n\n\nBCAM – Basque Center for Applied Mathematics\n\n\nMay 2017 – Septemper 2017"
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Professional Experience & Education",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\nPhD in Mathematics and Statistics\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\nMarch 2024\n\nDownload Thesis\n\n\n\n\n\n\nMSc in Mathematical, Statistical and Computational Modeling and Research\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\n2016 – 2017\n\n\n\n\n\n\n\nBSc in Mathematics\n\n\nUniversity of the Basque Country (UPV/EHU)\n\n\n2012 – 2016"
+  },
+  {
+    "objectID": "software/software.html",
+    "href": "software/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "svyROC\n\n\nR package for the estimation of the ROC curve and AUC with complex survey data\n\n\n\n\nlinks\n\n\nCRAN GitHub\n\n\n\n\n\n\n\n\n\n\n\n\nsvyVarSel\n\n\nR package for variable selection with lasso regression and elastic nets with complex survey data\n\n\n\n\nlinks\n\n\nCRAN GitHub\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software/package1.html",
+    "href": "software/package1.html",
+    "title": "svyVarSel",
+    "section": "",
+    "text": "This package is available on CRAN and GitHub:\n\nCRAN GitHub"
+  },
+  {
+    "objectID": "software/package2.html",
+    "href": "software/package2.html",
+    "title": "svyROC",
+    "section": "",
+    "text": "This package is available on CRAN and GitHub:\n\nCRAN GitHub"
+  },
+  {
+    "objectID": "software2/software.html",
+    "href": "software2/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "{{ title }}\n\n\n{{ description }}\n\n\n{% if cran.url %}\n&lt;a href=\"{{ cran.url }}\" class=\"soft-button cran\" target=\"_blank\"&gt;CRAN&lt;/a&gt;\n{% endif %}\n{% if github.url %}\n&lt;a href=\"{{ github.url }}\" class=\"soft-button github\" target=\"_blank\"&gt;GitHub&lt;/a&gt;\n{% endif %}\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "software2/package2.html",
+    "href": "software2/package2.html",
+    "title": "svyROC",
+    "section": "",
+    "text": "This package is available on CRAN and GitHub:\n\nCRAN GitHub"
+  },
+  {
+    "objectID": "software2/package1.html",
+    "href": "software2/package1.html",
+    "title": "svyVarSel",
+    "section": "",
+    "text": "This package is available on CRAN and GitHub:\n\nCRAN GitHub"
+  }
+]
